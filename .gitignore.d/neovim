@@ -1,0 +1,12 @@
+*
+!/.nvim
+!/.nvim/**
+/.nvim/.netrwhist
+/.nvim/backup
+/.nvim/plugged
+/.nvim/spell
+/.nvim/swap
+/.nvim/undo
+!/.nvimrc
+!/.gitignore.d
+!/.gitignore.d/neovim
